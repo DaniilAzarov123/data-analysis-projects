@@ -6,7 +6,7 @@ A machine learning project that predicts median house values in California using
 
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Tools &amp; Libraries](#tools-and-libraries)
+- [Tools &amp; Libraries](#tools--libraries)
 - [Project Structure](#project-structure)
 - [Methodology](#methodology)
 - [Models Implemented](#models-implemented)

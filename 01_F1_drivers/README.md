@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Tools &amp; Libraries](#tools-and-libraries)
+- [Tools &amp; Libraries](#tools--libraries)
 - [Results](#results)
 - [Key Insights](#key-insights)
 - [Acknowledgments](#acknowledgments)
