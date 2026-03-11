@@ -51,7 +51,7 @@ The dataset contains 20,433 observations with the following features:
 - Distance to San Jose [m]
 - Distance to San Francisco [m]
 
-## **Tools & Libraries**
+## Tools & Libraries
 
 The analysis and modeling were conducted in **Python** using the following libraries:
 

@@ -27,7 +27,7 @@ The dataset combines:
 
 It provides a comprehensive foundation for analyzing performance, safety, and reliability trends in Formula 1 over more than seven decades.
 
-## **Tools & Libraries**
+## Tools & Libraries
 
 The analysis and modeling were conducted in **Python** using the following libraries:
 
