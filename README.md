@@ -18,7 +18,7 @@ A collection of end-to-end data analysis and machine learning projects covering 
 
 ## Contact
 
-Feel free to reach out via [GitHub](https://github.com/DaniilAzarov123), [email](malito: azarov.dj@gmail.com), or connect on [LinkedIn](https://www.linkedin.com/in/daniil-azarov-998584355/).
+Feel free to reach out via [GitHub](https://github.com/DaniilAzarov123), [email](mailto:azarov.dj@gmail.com), or connect on [LinkedIn](https://www.linkedin.com/in/daniil-azarov-998584355/).
 
 ---
 
