@@ -1,6 +1,6 @@
 # 05 · Brazilian Marketplace — Product Analytics
 
-> **Course project** completed as part of the [Karpov Courses](https://karpov.courses/analytics) Data Analytics programme.
+> **Course project** completed as part of the [Karpov Courses](https://karpov.courses/analytics) Data Analytics program.
 
 ---
 
