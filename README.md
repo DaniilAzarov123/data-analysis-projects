@@ -61,3 +61,13 @@ Feel free to reach out via [GitHub](https://github.com/DaniilAzarov123), [email]
 **Best result:** R² 0.781 · Adj. R² 0.745 — no assumption violations detected
 **Stack:** Python · statsmodels · scikit-learn · pingouin · pandas · seaborn
 📂 [`04_Mobile_Price/`](./04_Mobile_Price)
+
+---
+
+### 05 · Brazilian Marketplace — Product Analytics
+
+**Goal:** Diagnose revenue stagnation for a Brazilian e-commerce startup using order, customer, and product data from Sep 2016 – Aug 2018.
+**Methods:** Cohort Analysis (retention), PMF assessment, ICE hypothesis prioritisation, A/B test metric design
+**Key finding:** PMF absent — M1 retention below 1% across all cohorts; order processing bug identified as highest-priority fix (ICE = 192)
+**Stack:** Python · pandas · NumPy · matplotlib · seaborn
+📂 [`05_Marketplace/`](./05_Marketplace)
