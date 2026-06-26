@@ -71,3 +71,13 @@ Feel free to reach out via [GitHub](https://github.com/DaniilAzarov123), [email]
 **Key finding:** PMF absent — M1 retention below 1% across all cohorts; order processing bug identified as highest-priority fix (ICE = 192)
 **Stack:** Python · pandas · NumPy · matplotlib · seaborn
 📂 [`05_Marketplace/`](./05_Marketplace)
+
+---
+
+### 06 · A/B Test Analysis — Dating App Premium Pricing
+
+**Goal:** Evaluate whether a pricing change for premium subscriptions introduced via two new payment methods had a positive effect on new user behaviour. 
+**Methods:** Chi-square test, Mann-Whitney U, Kruskal-Wallis, pairwise z-tests with Bonferroni correction, cohort retention analysis
+**Key finding:** Experiment unsuccessful — conversion dropped by ~40% in the test group; failed transaction rate of 8% (vs ~2% in controls) indicates a payment processing bug as the primary cause
+**Stack:** Python · pandas · NumPy · scipy · statsmodels · matplotlib · seaborn 
+📂 [`06_Dating_AB_test/`](./06_Dating_AB_test)
