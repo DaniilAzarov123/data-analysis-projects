@@ -1,16 +1,18 @@
 # Data Analysis Projects
 
-A collection of end-to-end data analysis and machine learning projects covering classification, regression, and statistical modeling. Each project follows a full analytical pipeline — from exploratory data analysis to model evaluation and diagnostics.
+Portfolio of end-to-end data analytics projects demonstrating SQL, Python, statistics, and machine learning to solve business problems. Each project includes data preparation, exploratory analysis, modeling, and clear recommendations based on the results.
 
 ---
 
 ## Skills Demonstrated
 
-- **Languages:** Python, R
-- **Machine learning:** Classification, Regression, Ensemble methods (Random Forest, XGBoost, Boosting)
-- **Statistical modeling:** OLS, GLM, LDA/QDA, Naive Bayes, Ridge/Lasso regularization
-- **Dimensionality reduction:** PCA, K-Means clustering
-- **Model selection:** AIC-based search, cross-validation, permutation resampling
+- **Languages:** Python, R, SQL (PostgreSQL — CTEs, window functions, conditional aggregation)
+- **Machine learning:** Classification, Regression, Ensemble methods (Random Forest, XGBoost, Gradient Boosting)
+- **Statistical modeling:** OLS, GLM/GLME, Mixed-Effects Models, LDA/QDA, Naive Bayes, Ridge/Lasso regularization
+- **Experiment design & testing:** A/B testing, chi-square, t-test, ANOVA, Post-hoc tests
+- **Business analytics:** Cohort analysis, customer segmentation, retention analysis, KPI definition, ICE framework, PMF assessment
+- **Dimensionality reduction:** PCA, K-Means clustering, MDS
+- **Model selection:** AIC/BIC-based search, cross-validation, permutation resampling
 - **Model diagnostics:** ROC/AUC, residual analysis, heteroscedasticity tests, VIF
 - **Visualization:** matplotlib, seaborn, ggplot2
 
@@ -18,7 +20,7 @@ A collection of end-to-end data analysis and machine learning projects covering 
 
 ## Contact
 
-Feel free to reach out via [GitHub](https://github.com/DaniilAzarov123), [email](mailto:azarov.dj@gmail.com), or connect on [LinkedIn](https://www.linkedin.com/in/daniil-azarov-998584355/). You can also visit [my personal website](https://daniilazarov123.github.io/).
+Feel free to reach out via [GitHub](https://github.com/DaniilAzarov123), [email](mailto:azarov.dj@gmail.com), or connect on [LinkedIn](https://www.linkedin.com/in/daniil-azarov-998584355/).
 
 ---
 
@@ -105,3 +107,17 @@ Feel free to reach out via [GitHub](https://github.com/DaniilAzarov123), [email]
 **Stack:** Python, pandas, NumPy, scipy, statsmodels, matplotlib, seaborn
 
 📂 [`06_Dating_AB_test/`](./06_Dating_AB_test)
+
+---
+
+### 7) E-Commerce Marketplace — Full Analytics Pipeline
+
+**Goal:** Assess the operational health of a Russian e-commerce marketplace and identify the highest-leverage opportunities to grow revenue and improve customer experience
+
+**Methods:** Cohort retention analysis, RFM-style customer segmentation, city-level performance ranking, delivery lateness diagnostics, order diversity analysis, Welch's t-test with effect size (Cohen's d)
+
+**Key finding:** Systemic delivery delays (10–40+ days beyond estimated date) are silently churning customers before they reach loyalty — the Regular segment shows a clear selection bias effect. A large conversion gap (most registered users never purchase) represents the highest-leverage growth opportunity requiring no additional acquisition spend.
+
+**Stack:** PostgreSQL (CTEs, window functions, conditional aggregation), Python, pandas, scipy, pingouin, matplotlib, seaborn
+
+📂 [`07_E_Commerce_Marketplace/`](./07_E_Commerce_Marketplace)
