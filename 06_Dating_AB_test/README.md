@@ -2,8 +2,6 @@
 
 ## Overview
 
-This project is a capstone analysis completed as part of the [Data Analytics course by Karpov Courses](https://karpov.courses/analytics).
-
 The analysis evaluates the results of an A/B test conducted in a large dating application. The experiment changed the price of a premium subscription for new users in several countries when paying through two newly introduced payment methods. The trial period price was kept unchanged. Subscriptions are billed monthly until cancelled.
 
 Three groups were compared: one test group and two control groups. The goal was to determine whether the experiment was successful overall.
@@ -67,7 +65,3 @@ The recommended next steps are to fix the payment processing issue in the new me
 ## Tools and Libraries
 
 Python 3.12, pandas, numpy, scipy, statsmodels, matplotlib, seaborn
-
-## Course Reference
-
-This project was completed as the capstone assignment of the [Data Analytics course by Karpov Courses](https://karpov.courses/analytics). The dataset was provided as part of that course.

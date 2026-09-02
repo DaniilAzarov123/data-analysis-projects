@@ -18,7 +18,6 @@ End-to-end analysis of an e-commerce marketplace using three months of transacti
   - [4. Delivery Lateness](#4-delivery-lateness)
 - [Key Conclusions](#key-conclusions)
 - [Tools &amp; Methods](#tools--methods)
-- [Reference](#course-reference)
 
 ---
 
@@ -122,9 +121,3 @@ Expansion into new audiences is a logical next step, but only after these two is
 | Analysis          | Python - pandas, scipy, pingouin                                   |
 | Visualisation     | matplotlib, seaborn                                                |
 | Statistical tests | Welch's t-test, effect size (Cohen's d)                            |
-
----
-
-## Reference
-
-This project was completed as the capstone assignment of the [Data Analytics course by Karpov Courses](https://karpov.courses/analytics). The dataset was provided as part of that course.
